@@ -5,7 +5,7 @@ This site showcases who I am, what I do, and how to contact me.
 
 ## ✨ Preview
    
-![Portfolio Screenshot](./images/preview.png) 
+![Portfolio Screenshot](./src/images/preview.png) 
 
 ## 🚀 Live Demo
 
@@ -26,13 +26,13 @@ This site showcases who I am, what I do, and how to contact me.
 
 Для создания Docker-образа выполните команду:
 docker build -t my-react-app .
-![Результат сборки](./images/docker-build.png) 
+![Результат сборки](./src/images/docker-build.png) 
 
 ### ▶️ Запуск контейнера
 
 Запустите приложение с помощью docker-compose:
 docker compose up --build .
-![Приложение запущено, контейнер работает](./images/docker-up.png)
+![Приложение запущено, контейнер работает](./src/images/docker-build.png)
 
-### Ссылка на гитхаб https://github.com/krytayavlada/portfolio
+### Ссылка на гитхаб https://github.com/dianakurayan/diana
 
